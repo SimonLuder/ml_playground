@@ -30,3 +30,9 @@
 | Neuronal Network playground Tensorflow | http://playground.tensorflow.org/ | Interactive, Classification, Regression |
 | Neural Networks, Manifolds, and Topology      | http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ |  |
 
+
+## Youtube
+
+| Channel    | Playlists     | Tags |
+|------------|---------------|------|
+| [Steve Brunton](https://www.youtube.com/c/Eigensteve) | [Singular Value Decomposition](https://www.youtube.com/watch?v=gXbThCXjZFM&list=PLMrJAkhIeNNSVjnsviglFoY2nXildDCcv) | Math, SVD |
