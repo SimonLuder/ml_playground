@@ -4,30 +4,29 @@
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Introduction to Machine Learning Algorithms: Linear Regression | https://towardsdatascience.com/introduction-to-machine-learning-algorithms-linear-regression-14c4e325882a | Python, Gradient-Descent |
+|  |  |  |
+|  |  |  |
 
 ## Supervised Learning
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  |  |  |
+|  |  |  |
 
 ## Unsupervised Learning
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+|  |  |  |
+|  |  |  |
+|  |  |  |
 
 ## Neuronal Networks
 
 | Title         | URL           | Tags  |
 | ------------- |---------------| ------|
-| Neuronal Network playground Tensorflow | http://playground.tensorflow.org/ | interactive, Classification, Regression |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+| Neuronal Network playground Tensorflow | http://playground.tensorflow.org/ | Interactive, Classification, Regression |
+| Neural Networks, Manifolds, and Topology      | http://colah.github.io/posts/2014-03-NN-Manifolds-Topology/ |  |
+
